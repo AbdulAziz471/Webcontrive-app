@@ -5,7 +5,7 @@ import Mostlyused from "../../Images/Mostlyused.svg";
 import Recomend from "../../Images/Recomend.svg";
 import pro_rew_1 from "../../Images/pro_rew_1.png";
 import popup from "../../Images/popup.png";
-import Mostadd from "../../Images/Mostadd.svg";
+import Mostadd from "../../Images/MostAdd.svg";
 import AllReview from "../../Images/StoreAllReview.png";
 import Cal from "../../Images/calculation.svg";
 import test from "../../Images/TestimonailReview.png";
