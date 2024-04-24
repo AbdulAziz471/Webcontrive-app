@@ -4,7 +4,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import arrowLine from "../../Images/arrow-line.svg";
 import email_1 from "../../Images/email_1.svg";
-import "./Contactbanner.css";
+import "./ContactBanner.css";
 
 export default function ContactBannar() {
   const slideData = [
