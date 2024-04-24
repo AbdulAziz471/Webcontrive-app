@@ -6,7 +6,7 @@ import gempages from "../../Images/gempages.svg";
 import BSS from "../../Images/BSS.svg";
 import veda from "../../Images/Veda.svg";
 import secomApp from "../../Images/secomApp.svg";
-import Bon from "../../Images/Bonloyalty.svg";
+import Bon from "../../Images/BonLoyalty.svg";
 import Stocvksync from "../../Images/Stocksync.svg";
 import Apps from "../../Components/APP'S/Apps";
 const AssociatedApps = () => {
@@ -25,10 +25,7 @@ const AssociatedApps = () => {
   return (
     <>
       <div>
-        <Apps
-        
-          AppsImages={appsData}
-        />
+        <Apps AppsImages={appsData} />
       </div>
     </>
   );
