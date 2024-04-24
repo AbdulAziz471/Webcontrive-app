@@ -8,7 +8,7 @@ import QuickSupport from "../../Images/KeyFeatures/QuickSupport.svg";
 import RichSnippet from "../../Images/KeyFeatures/RichSnippet.svg";
 import ShowCaseReview from "../../Images/KeyFeatures/ShowCaseReview.svg";
 import QuickCustamize from "../../Images/KeyFeatures/QuickCustamize.svg";
-import "./KeyFeatures.css";
+
 export default function KeyFeatures(props) {
   const griddata = [
     {
