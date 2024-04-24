@@ -1,5 +1,5 @@
 import TextWithButton from "../../Components/TextWithButton/TextWithButton";
-import plus from "../../Images/ShopPlus.svg";
+import plus from "../../Images/shopplus.svg";
 import img from "../../Images/Group_29656_1.png";
 export default function ShopifyPlus() {
   const gradientStyle = {
