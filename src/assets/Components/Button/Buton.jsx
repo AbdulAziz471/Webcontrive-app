@@ -1,6 +1,6 @@
 // Button.js
 import { Link } from "react-router-dom";
-import "./Button.css";
+import "./button.css";
 
 export default function Button({ btn, to, btnClass }) {
   return (
